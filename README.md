@@ -3,7 +3,7 @@ The repository consists of two Python Main programs:
 i) train.py
 ii) predict.py
 
-Before developing the above command-line applications, the training implementation was tested on Jupyter notebook, 
+Before developing the above command-line applications, the training & prediction implementation was tested on Jupyter notebook, 
 the output of which can be accessed at 'Image Classifier Project.html'
 
 The details of train & predict programs are described below.
